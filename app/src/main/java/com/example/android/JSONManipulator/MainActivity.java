@@ -1,4 +1,4 @@
-package com.example.android.zadatak;
+package com.example.android.JSONManipulator;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

@@ -1,4 +1,4 @@
-package com.example.android.zadatak;
+package com.example.android.JSONManipulator;
 
 import org.junit.Test;
 
